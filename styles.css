@@ -1,7 +1,17 @@
+.banner {
+	background-color: lightgrey;
+	text-align: center;
+}
+
 .sidebar {
 	background-color: lightblue;
 }
 
 .content {
 	background-color: lightgreen;
+}
+
+.footer {
+	background-color: violet;
+	text-align: center;
 }
