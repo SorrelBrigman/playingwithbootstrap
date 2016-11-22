@@ -3,6 +3,11 @@
 	text-align: center;
 }
 
+.header-image {
+	width: 250px;
+	height: 250px;
+}
+
 .sidebar {
 	background-color: lightblue;
 }
